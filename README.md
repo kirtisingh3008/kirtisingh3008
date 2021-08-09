@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Kirti.</h2>
+<h1> Hey there! I'm Kirti.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -46,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="linkedin.com/in/kirti-singh-395680170"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="linkedin.com/in/kirti-singh-395680170"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kirti%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirtisingh3008@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [kirtisingh3008](https://github.com/kirtisingh3008)
