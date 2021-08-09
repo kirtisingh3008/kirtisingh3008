@@ -43,6 +43,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/Kirtisingh3008/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kirti%20Singh-blue?style=flat-square&logo=linkedin">
+<a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirti%20Singh-blue?style=flat-square&logo=email">
 </p>
 
 ⭐️ From [kirtisingh3008](https://github.com/kirtisingh3008)
