@@ -28,7 +28,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-\
 
 <br/>
 
@@ -42,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="linkedin.com/in/kirti-singh-395680170"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kirti%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="linkedin.com/in/kirti-singh-395680170"><img alt="LinkedIn" src="https://www.linkedin.com/in/kirti-singh-395680170/"></a>
 <a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirtisingh3008@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
 
