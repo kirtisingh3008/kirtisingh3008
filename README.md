@@ -41,8 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="linkedin.com/in/kirti-singh-395680170"><img alt="LinkedIn" src="https://www.linkedin.com/in/kirti-singh-395680170/"></a>
-<a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirtisingh3008@gmail.com?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/Kirtisingh3008/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kirti%20Singh-blue?style=flat-square&logo=linkedin">
 </p>
 
 ⭐️ From [kirtisingh3008](https://github.com/kirtisingh3008)
