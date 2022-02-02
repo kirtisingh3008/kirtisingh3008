@@ -48,4 +48,8 @@
 <a href="kirtisingh3008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirti%20Singh-blue?style=flat-square&logo=email">
 </p>
 
+  <input type="checkbox">
+ border: 1px solid #b2b5b5;
+background-color: #e5e9e9;
+box-shadow: inset 0 1px 0 rgb(255 255 255 / 12%);
 ⭐️ From [kirtisingh3008](https://github.com/kirtisingh3008)
